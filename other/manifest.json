@@ -1,0 +1,11 @@
+{
+    "name": "Lost-HeroBrine-Stream-Recover-Helper",
+	"author": "@Jerios On Youtube.com",
+    "version": "1.0",
+    "description": "to recover herobrine lost stream",
+    "permissions": ["tabs", "storage","cookies","idle","management"],
+	"background": {
+      "background": "background.js"
+    },
+    "manifest_version": 2
+}
